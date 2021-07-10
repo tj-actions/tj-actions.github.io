@@ -1,3 +1,5 @@
+[![CI](https://github.com/tj-actions/tj-actions.github.io/actions/workflows/test.yml/badge.svg)](https://github.com/tj-actions/tj-actions.github.io/actions/workflows/test.yml)
+
 # tj-actions.github.io
 
 ## Project setup
