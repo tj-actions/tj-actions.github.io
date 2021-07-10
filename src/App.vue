@@ -1,20 +1,22 @@
 <template>
   <VideoBg :sources="[video]">
-    <Title msg="Welcome to tj-actions"/>
-    <a href="https://github.com/tj-actions" class="button">Source on GitHub</a>
-    <div id="social">
-      <Title msg="Top Repositories"/>
-      <div class="repo-item">
-        <a class="repo" href="https://github.com/tj-actions/changed-files" target="_blank">changed files</a>
-        <iframe src="https://ghbtns.com/github-btn.html?user=tj-actions&repo=changed-files&type=star&count=true&size=medium" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-      </div>
-      <div class="repo-item">
-        <a class="repo" href="https://github.com/tj-actions/verify-changed-files" target="_blank">verify changed files</a>
-        <iframe src="https://ghbtns.com/github-btn.html?user=tj-actions&repo=verify-changed-files&type=star&count=true&size=medium" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-      </div>
-      <div class="repo-item">
-        <a class="repo" href="https://github.com/tj-actions/branch-names" target="_blank">branch-names</a>
-        <iframe src="https://ghbtns.com/github-btn.html?user=tj-actions&repo=branch-names&type=star&count=true&size=medium" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+    <div style="margin-top: 10%;">
+      <Title msg="Welcome to tj-actions"/>
+      <a href="https://github.com/tj-actions" class="button">Source on GitHub</a>
+      <div id="social">
+        <Title msg="Top Repositories"/>
+        <div class="repo-item">
+          <a class="repo" href="https://github.com/tj-actions/changed-files" target="_blank">changed files</a>
+          <iframe src="https://ghbtns.com/github-btn.html?user=tj-actions&repo=changed-files&type=star&count=true&size=medium" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+        </div>
+        <div class="repo-item">
+          <a class="repo" href="https://github.com/tj-actions/verify-changed-files" target="_blank">verify changed files</a>
+          <iframe src="https://ghbtns.com/github-btn.html?user=tj-actions&repo=verify-changed-files&type=star&count=true&size=medium" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+        </div>
+        <div class="repo-item">
+          <a class="repo" href="https://github.com/tj-actions/branch-names" target="_blank">branch-names</a>
+          <iframe src="https://ghbtns.com/github-btn.html?user=tj-actions&repo=branch-names&type=star&count=true&size=medium" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
+        </div>
       </div>
     </div>
   </VideoBg>
