@@ -135,10 +135,6 @@ h4, a {
   transition: all 0.15s ease;
 }
 
-#social div.repo-item:first-of-type {
-  margin-left: 10em;
-}
-
 h2 {
   color: #fff;
 }
