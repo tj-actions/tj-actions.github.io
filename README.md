@@ -1,4 +1,4 @@
-[![CI](https://github.com/tj-actions/tj-actions.github.io/actions/workflows/test.yml/badge.svg)](https://github.com/tj-actions/tj-actions.github.io/actions/workflows/test.yml)
+[![CI](https://github.com/tj-actions/tj-actions.github.io/actions/workflows/test.yml/badge.svg)](https://github.com/tj-actions/tj-actions.github.io/actions/workflows/test.yml) [![Build and Push to github-pages](https://github.com/tj-actions/tj-actions.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/tj-actions/tj-actions.github.io/actions/workflows/deploy.yml)
 
 # tj-actions.github.io
 
