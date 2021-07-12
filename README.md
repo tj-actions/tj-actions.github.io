@@ -2,7 +2,6 @@
 
 # tj-actions.github.io
 
-
 ## Project setup
 
     yarn install
