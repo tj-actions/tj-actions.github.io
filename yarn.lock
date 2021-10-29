@@ -3578,10 +3578,10 @@ eslint-loader@^2.2.1:
     object-hash "^1.1.4"
     rimraf "^2.6.1"
 
-eslint-plugin-vue@8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-vue/-/eslint-plugin-vue-8.0.0.tgz#9c3258d0ae520b7393ace2a2f7210e6b9db44b43"
-  integrity sha512-BhS+B4bHFXS4b3bwpfPIJXgvydgvw+2lsM7Ue2AA8BscBjCFT+PbsTAGqpOnc+k28AsM6S8oplqgu/R/5ISeag==
+eslint-plugin-vue@8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-vue/-/eslint-plugin-vue-8.0.1.tgz#1d27d976ab6471c5833397cbc8dec78c3b772606"
+  integrity sha512-h7SJFNECfkx89CeH3VCGGhLcm4VLOsOZ+DUSGk0h/aCqm9Outm/sIkoOvNpCebsb0U+uBzb93v2yZ6k7Vzy6LQ==
   dependencies:
     eslint-utils "^3.0.0"
     natural-compare "^1.4.0"
