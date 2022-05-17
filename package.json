@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "3.19.1",
-    "vue": "3.2.21",
+    "vue": "3.2.33",
     "vue-videobg": "2.0.0"
   },
   "devDependencies": {
